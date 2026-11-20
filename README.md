@@ -5,8 +5,6 @@
 ![Stack](https://img.shields.io/badge/stack-MERN%20%7C%20Socket.io%20%7C%20C%23%20%2F%20Python-orange.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11%20%7C%20Linux-lightgrey.svg)
 
-**OfficeGuard RMM** (Remote Monitoring & Management) হলো একটি সেন্ট্রালাইজড অফিস নেটওয়ার্ক সিকিউরিটি, এমপ্লয়ি অ্যাক্টিভিটি মনিটরিং এবং রিমোট পিসি কন্ট্রোল সিস্টেম। এর মাধ্যমে একজন অ্যাডমিন একটি সেন্ট্রাল ওয়েব ড্যাশবোর্ড থেকে অফিসের সকল কম্পিউটার রিয়েল-টাইমে মনিটর করতে, সফটওয়্যার ইনস্টলেশন ব্লক করতে, রিমোট অ্যাক্সেস নিতে এবং প্রতি ৩০ দিন পরপর অটোমেটিক পাসওয়ার্ড পরিবর্তন (Password Rotation) করতে পারবেন।
-
 **OfficeGuard RMM** is a centralized, self-hosted Remote Monitoring and Management (RMM) & Endpoint Security solution designed to secure an office network, monitor employee productivity, enforce software installation policies, provide instant remote desktop access, and automate Windows credential rotation.
 
 ---
